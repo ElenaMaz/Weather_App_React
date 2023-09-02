@@ -62,7 +62,8 @@ export default function WeatherSearch() {
         </div>
         <footer>
           Coded by Olena Mazurenko
-          <a href="https://github.com/ElenaMaz/Weather_App_React">github</a>
+          <br />
+          <a href="https://github.com/ElenaMaz/Weather_App_React">Github</a>
         </footer>
       </div>
     );
