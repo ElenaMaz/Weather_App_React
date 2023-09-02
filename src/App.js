@@ -60,7 +60,10 @@ export default function WeatherSearch() {
             </li>
           </ul>
         </div>
-        <footer> Coded by Olena Mazurenko</footer>
+        <footer>
+          Coded by Olena Mazurenko
+          <a href="https://github.com/ElenaMaz/Weather_App_React">github</a>
+        </footer>
       </div>
     );
   } else {
